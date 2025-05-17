@@ -1,8 +1,11 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
-###
-
-<p align="left">Hi, I'm Utara Setya from Indonesia.<br><br>🔭 I’m working as the Founder of Pinterjualan, an import buy-and-sell company, and Reetech, an IT consulting firm.<br>📚 I'm currently learning advanced data science techniques and exploring innovative ways to integrate technology into business operations.<br>⚡ In my free time, I enjoy exploring the latest tech trends, mentoring aspiring entrepreneurs, and refining my skills in data analytics.</p>
+<p align="left">
+Hi, I'm Utara Setya from Indonesia.<br><br>
+🔭 I’m working as the Founder of Pinterjualan, an import buy-and-sell company, and Reetech, an IT consulting firm.<br>
+📚 I'm currently learning advanced data science techniques and exploring innovative ways to integrate technology into business operations.<br>
+⚡ In my free time, I enjoy exploring the latest tech trends, mentoring aspiring entrepreneurs, and refining my skills in data analytics.
+</p>
 
 ###
 
@@ -20,9 +23,7 @@
 
 ###
 
-<h3 align="left">🛠 Web Dev Languange And Tools</h3>
-
-###
+<h3 align="left">🛠 Web Dev Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -46,9 +47,7 @@
 
 ###
 
-<h3 align="left">🛠 Mobile Dev Languange And Tools</h3>
-
-###
+<h3 align="left">🛠 Mobile Dev Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -58,9 +57,7 @@
 
 ###
 
-<h3 align="left">🛠 Database Languange And Tools</h3>
-
-###
+<h3 align="left">🛠 Database Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
@@ -74,9 +71,7 @@
 
 ###
 
-<h3 align="left">🛠 DataScience And Machine Learning Languange And Tools</h3>
-
-###
+<h3 align="left">🛠 Data Science and Machine Learning Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
@@ -98,9 +93,7 @@
 
 ###
 
-<h3 align="left">🛠 DevOps Languange And Tools</h3>
-
-###
+<h3 align="left">🛠 DevOps Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
@@ -128,4 +121,7 @@
 
 <img src="https://raw.githubusercontent.com/utarasetyaw/utarasetyaw/output/snake.svg" alt="Snake animation" />
 
-###
+---
+
+### Snake Animation Workflow
+
