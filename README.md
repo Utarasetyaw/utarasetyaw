@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Utara Setya from Indonesia. <a href="https://www.utarasetya.my.id" target="_blank">www.utarasetya.my.id</a><br><br>🔭 I’m working as the Founder of Pinterjualan, an import buy-and-sell company, and Reetech, an IT consulting firm.<br>📚 I'm currently learning advanced data science techniques and exploring innovative ways to integrate technology into business operations.<br>⚡ In my free time, I enjoy exploring the latest tech trends, mentoring aspiring entrepreneurs, and refining my skills in data analytics.</p>
+<p align="left">Hi, I'm Utara Setya from Indonesia. <br><br>🔭 I’m working as the Founder of Pinterjualan, an import buy-and-sell company, and Reetech, an IT consulting firm.<br>📚 I'm currently learning advanced data science techniques and exploring innovative ways to integrate technology into business operations.<br>⚡ In my free time, I enjoy exploring the latest tech trends, mentoring aspiring entrepreneurs, and refining my skills in data analytics.</p>
 
 ###
 
@@ -16,7 +16,11 @@
   <a href="https://www.instagram.com/utara.sw/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="https://www.utarasetya.my.id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+  </a>
 </div>
+
 
 ###
 
