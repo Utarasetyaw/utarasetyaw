@@ -1,34 +1,21 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<style>
-  .highlight-link {
-    color: #007bff;
-    text-decoration: none;
-    font-weight: bold;
-    transition: background 0.2s, color 0.2s;
-    padding: 2px 4px;
-    border-radius: 3px;
-  }
-  .highlight-link:hover {
-    background: #e2f0fb;
-    color: #0056b3;
-    text-decoration: underline;
-    cursor: pointer;
-  }
-</style>
-
 <p align="left">
   Hi, I'm Utara Setya from Indonesia. <br><br>
   🔭 I’m working as the Founder of
-  <a href="https://pinterjualan.id" class="highlight-link" target="_blank">Pinterjualan</a>, 
+  <a href="https://pinterjualan.id" target="_blank" style="vertical-align:middle;">
+    <img src="https://img.shields.io/static/v1?message=Pinterjualan&color=orange&style=for-the-badge" height="22" alt="Pinterjualan badge" style="margin-bottom:2px;" />
+  </a>,
   an import buy-and-sell company, and
-  <a href="https://www.reetech.id" class="highlight-link" target="_blank">Reetech</a>,
+  <a href="https://www.reetech.id" target="_blank" style="vertical-align:middle;">
+    <img src="https://img.shields.io/static/v1?message=Reetech&color=blue&style=for-the-badge" height="22" alt="Reetech badge" style="margin-bottom:2px;" />
+  </a>,
   an IT consulting firm.<br>
   📚 I'm currently learning advanced data science techniques and exploring innovative ways to integrate technology into business operations.<br>
   ⚡ In my free time, I enjoy exploring the latest tech trends, mentoring aspiring entrepreneurs, and refining my skills in data analytics.
 </p>
+
 
 ###
 
