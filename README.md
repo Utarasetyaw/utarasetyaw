@@ -5,7 +5,7 @@
   Hi, I'm Utara Setya from Indonesia. <br><br>
   🔭 I’m working as the Founder of
   <a href="https://pinterjualan.id" target="_blank" style="vertical-align:middle;">
-    <img src="https://img.shields.io/static/v1?message=Pinterjualan&color=orange&style=for-the-badge" height="22" alt="Pinterjualan badge" style="margin-bottom:2px;" />
+    <img src="https://img.shields.io/static/v1?message=Pinterjualan&color=orange&style=for-the-badge" height="22"](https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25") alt="Pinterjualan badge" style="margin-bottom:2px;" />
   </a>,
   an import buy-and-sell company, and
   <a href="https://www.reetech.id" target="_blank" style="vertical-align:middle;">
