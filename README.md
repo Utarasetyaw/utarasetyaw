@@ -4,13 +4,13 @@
 <p align="left">
   Hi, I'm Utara Setya from Indonesia. <br><br>
   🔭 I’m working as the Founder of
-  <a href="https://pinterjualan.id" target="_blank" style="vertical-align:middle;">
-    <img src="https://img.shields.io/static/v1?message=Pinterjualan&color=orange&style=for-the-badge" height="22"](https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25") alt="Pinterjualan badge" style="margin-bottom:2px;" />
-  </a>,
+  <a href="https://pinterjualan.id" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=Pinterjualan&color=orange&style=for-the-badge" height="22" alt="Pinterjualan badge" />
+</a>,
   an import buy-and-sell company, and
-  <a href="https://www.reetech.id" target="_blank" style="vertical-align:middle;">
-    <img src="https://img.shields.io/static/v1?message=Reetech&color=blue&style=for-the-badge" height="22" alt="Reetech badge" style="margin-bottom:2px;" />
-  </a>,
+  <a href="https://www.reetech.id" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=Reetech&color=blue&style=for-the-badge" height="22" alt="Reetech badge" />
+</a>,
   an IT consulting firm.<br>
   📚 I'm currently learning advanced data science techniques and exploring innovative ways to integrate technology into business operations.<br>
   ⚡ In my free time, I enjoy exploring the latest tech trends, mentoring aspiring entrepreneurs, and refining my skills in data analytics.
