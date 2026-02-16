@@ -15,7 +15,10 @@
   </a>,
   <a href="https://pinterjualan.id" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Pinterjualan.id&color=orange&style=for-the-badge" height="22" alt="Pinterjualan badge" />
-  </a>, and <strong>Satulini.xyz</strong>.<br>
+  </a>, and 
+  <a href="https://satulini.xyz" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Satulini.xyz&color=green&style=for-the-badge" height="22" alt="Satulini badge" />
+  </a>.<br>
   📚 I'm constantly exploring advanced data science techniques, machine learning, and innovative ways to integrate technology into business operations.<br>
   ⚡ In my free time, I enjoy mentoring aspiring entrepreneurs and refining my skills in fullstack development and data analytics.
 </p>
