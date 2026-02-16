@@ -1,0 +1,30 @@
+name: Sync README with setyaw.xyz
+
+on:
+  schedule:
+    # Berjalan setiap jam 00:00 UTC (Bisa disesuaikan)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Agar bisa dijalankan manual dengan klik tombol "Run workflow" di GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18 # Butuh Node 18+ untuk fitur fetch()
+
+      - name: Jalankan Script Auto-Generate
+        run: node update-readme.js
+
+      - name: Commit dan Push Perubahan
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Auto-update: Sync 100% data profil dari API setyaw.xyz" || echo "Tidak ada perubahan data"
+          git push
