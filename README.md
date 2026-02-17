@@ -6,7 +6,7 @@
 ###
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Completed_Projects-20-success?style=for-the-badge" alt="Completed Projects" />
+  <img src="https://img.shields.io/badge/Completed_Projects-22-success?style=for-the-badge" alt="Completed Projects" />
   <img src="https://img.shields.io/badge/Ongoing_Projects-2-informational?style=for-the-badge" alt="Ongoing Projects" />
   <img src="https://img.shields.io/badge/Certificates-9-warning?style=for-the-badge" alt="Certificates" />
   <img src="https://img.shields.io/badge/Research-1-blueviolet?style=for-the-badge" alt="Research" />
@@ -49,6 +49,14 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
+**Web Top Up DL Cheap** | *PT RARS MAJU BERSAMA* `(SELESAI)`
+> A dedicated web-based e-commerce platform designed for the secure trading and top-up of specific digital gaming assets. Developed for PT RAPS, this platform facilitates fast, reliable, and user-friendly transactions tailored for the digital gaming community.
+- **Tech Stack:** `Vue.js`, `Express.js`, `Mysql`
+
+**Consultation apps** | *Anicare* `(SELESAI)`
+> An innovative AgriTech web platform designed to provide smart telehealth solutions for livestock, with a specialized focus on cattle health. Powered by Django and integrating TensorFlow for intelligent health insights, the platform enables farmers to seamlessly book and consult with veterinary experts
+- **Tech Stack:** `Django`, `Tensorflow`, `Mysql`
+
 **CMS and Interactive Learning Management System** | *PT ETSI Hutama Maritim* `(BERJALAN)`
 > A centralized corporate web solution under active development for the maritime sector. Leveraging React.js and Strapi, this platform integrates a scalable CMS and an interactive LMS, providing a unified digital ecosystem for institutional content delivery and skills development.
 - **Tech Stack:** `React.js`, `Mysql`, `Strapi`
@@ -56,14 +64,6 @@
 **E-Commerce Web Platform** | *Growroom* `(SELESAI)`
 > A specialized e-commerce web platform engineered for the international import and export of exotic flora. It provides a dedicated and secure digital storefront, connecting local cultivators of unique, high-value plants with a global market of enthusiasts.
 - **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `Mysql`
-
-**Corporate Web Portal and Custom CMS** | *PT Kreasi Media Internasional* `(BERJALAN)`
-> An integrated corporate web portal and custom CMS under active development. Leveraging React.js for an engaging frontend landing page and a robust Node.js and MySQL backend, this project provides a scalable digital infrastructure for seamless media and content management.
-- **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `Mysql`
-
-**Portal News And Community Events** | *Narapati* `(SELESAI)`
-> A dedicated full-stack web portal designed for flora enthusiasts in Indonesia, featuring the latest botanical news and community events. Built with a modern React and Node.js architecture, the platform serves as a centralized digital hub for information sharing and event discovery
-- **Tech Stack:** `React.js`, `Express.js`, `Mysql`, `Node.js`
 
 ---
 
