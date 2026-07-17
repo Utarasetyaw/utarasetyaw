@@ -1,15 +1,15 @@
 <h1 align="left">Hi 👋, I'm Utara Setya Wardaya</h1>
-<h3 align="left">Tech Entrepreneur & Researcher</h3>
+<h3 align="left">IT Architect, Budgeting & Systems Audit</h3>
 
-<p align="left">Tech Entrepreneur and Researcher dedicated to building impact-driven digital ecosystems. As the founder of Reetech.id, Pinterjualan.id, and Satulini.xyz.</p>
+<p align="left">Senior System Architect, Researcher, and Tech Entrepreneur specializing in impact-driven digital ecosystems. Founder of Reetech.id, Pinterjualan.id, and Satulini.xyz, with comprehensive expertise spanning advanced system design, project budgeting, and IT system auditing</p>
 
 ###
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Completed_Projects-23-success?style=for-the-badge" alt="Completed Projects" />
-  <img src="https://img.shields.io/badge/Ongoing_Projects-1-informational?style=for-the-badge" alt="Ongoing Projects" />
+  <img src="https://img.shields.io/badge/Completed_Projects-21-success?style=for-the-badge" alt="Completed Projects" />
+  <img src="https://img.shields.io/badge/Ongoing_Projects-2-informational?style=for-the-badge" alt="Ongoing Projects" />
   <img src="https://img.shields.io/badge/Certificates-9-warning?style=for-the-badge" alt="Certificates" />
-  <img src="https://img.shields.io/badge/Research-1-blueviolet?style=for-the-badge" alt="Research" />
+  <img src="https://img.shields.io/badge/Research-2-blueviolet?style=for-the-badge" alt="Research" />
 </p>
 
 ###
@@ -18,13 +18,13 @@
   <a href="https://github.com/Utarasetyaw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GITHUB&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="https://www.linkedin.com/in/utarasw" target="_blank">
+  <a href="https://www.linkedin.com/in/utarasw/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://x.com/setyaw_xyz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TWITTER&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01bc3346bfd60ccdf8?s=1110580755107926016" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01bc3346bfd60ccdf8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=UPWORK&logo=upwork&label=&color=14A800&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo" />
   </a>
 </div>
@@ -33,47 +33,45 @@
 
 <h3 align="left">💼 Experience</h3>
 
-**Senior Data Science** | *BCC, Faculty of Computer Science, UB* `(Mar 2021 - Dec 2021)`
-- Successfully led the junior data science team to achieve the best project in the Bootcamp by implementing the Apriori algorithm, which improved solution efficiency by 35%
-- Mentored a team of 10 junior data science members during projects in the Data Bootcamp period, contributing to a 40% increase in their project completion rates.
+**IT Auditor** | *PT. Abrisam Mitra Optima* `(May 2026 - Present)`
+- Executed in-depth IT audits to assess system integrity, security, and operational efficiency across diverse client business functions.
+- Evaluated client technology infrastructures to identify vulnerabilities, mitigate technological risks, and ensure strict compliance with industry standards.
 
-**Head Of Technology** | *Polistic Collective* `(Aug 2023 - Feb 2024)`
-- Managed an IoT project focused on the development of an inorganic waste separation device and an automatic feeding system, resulting in a 20% increase in operational efficiency and a 10% reduction in labor costs.
-- Expanded the company's strategy to facilitate collaboration with similar companies in Malang, driving IoT product development and fostering industry partnerships that increased project opportunities by 10%.
+**Senior System Architect & IT Auditor** | *Pristama Inotech Jayalestari* `(Jun 2024 - Present)`
+- Evaluated core business requirements for retail and financial projects to determine optimal technology stacks, frameworks, and infrastructure designs.
+- Conducted comprehensive IT system audits on third-party vendors to monitor project development and ensure strict compliance with enterprise architecture standards.
 
-**CEO & Founder** | *Red Reinder Ecosystem Enterprise Technology* `(Sep 2022 - Now)`
-- Scaled retail component operations by directly importing from China, achieving over 100+ successful sales and establishing a strategic network of reseller partners.
-- Led technology consulting initiatives and retail component distribution for over 10 key partners (including GTS International Tbk, MCS International, and Rapspoint), maintaining a 95% on-target delivery and budget rate.
+**Product Manager & System Implementer** | *Cekat.AI* `(Feb 2026 - Present)`
+- Drove product direction and managed the AI Agent roadmap, effectively balancing user needs, business objectives, and technical constraints.
+- Authored clear Product Requirements Documents (PRDs) and user stories, collaborating directly with engineering and design teams in an Agile environment.
 
 ---
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-**Web Top Up DL Cheap** | *PT RARS MAJU BERSAMA* `(SELESAI)`
-> A dedicated web-based e-commerce platform designed for the secure trading and top-up of specific digital gaming assets. Developed for PT RAPS, this platform facilitates fast, reliable, and user-friendly transactions tailored for the digital gaming community.
-- **Tech Stack:** `Vue.js`, `Express.js`, `Mysql`
+**Web development project for Kreasi Media International** | *PT Kreasi Media International* `(SELESAI)`
+> A comprehensive web platform developed for PT Kreasi Media International. This project focused on building an engaging corporate landing page to establish a strong online presence, paired with a custom consultation booking portal designed to simplify the appointment scheduling process for clients.
 
-**Consultation apps** | *Anicare* `(SELESAI)`
-> An innovative AgriTech web platform designed to provide smart telehealth solutions for livestock, with a specialized focus on cattle health. Powered by Django and integrating TensorFlow for intelligent health insights, the platform enables farmers to seamlessly book and consult with veterinary experts
-- **Tech Stack:** `Django`, `Tensorflow`, `Mysql`
+**Web development project for ETSI Hutama Maritim** | * ETSI Hutama Maritim* `(SELESAI)`
+> A web development project for ETSI Hutama Maritim, focusing on establishing a strong online corporate presence. The project includes a fully functional landing page and a tailored Content Management System (CMS) that allows the client to easily manage, update, and publish website content independently.
+- **Tech Stack:** `Next.js`, `Strapi`
 
-**CMS and Interactive Learning Management System** | *PT ETSI Hutama Maritim* `(BERJALAN)`
-> A centralized corporate web solution under active development for the maritime sector. Leveraging React.js and Strapi, this platform integrates a scalable CMS and an interactive LMS, providing a unified digital ecosystem for institutional content delivery and skills development.
-- **Tech Stack:** `React.js`, `Mysql`, `Strapi`
+**Sistem Manajemen Outsourcing Tenaga Kerja** | *SIM Grub* `(BERJALAN)`
+> tets
 
-**E-Commerce Web Platform** | *Growroom* `(SELESAI)`
-> A specialized e-commerce web platform engineered for the international import and export of exotic flora. It provides a dedicated and secure digital storefront, connecting local cultivators of unique, high-value plants with a global market of enthusiasts.
-- **Tech Stack:** `React.js`, `Node.js`, `Express.js`, `Mysql`
+**Aplikasi Order Management NEXA** | *Nexa* `(BERJALAN)`
+> -
+- **Tech Stack:** `Nest.js`, `React.js`
 
 ---
 
 <h3 align="left">🎓 Education</h3>
 
-**Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka** `(2022 - 2023)`
-*Machine Learning Engineer* *(GPA: - / 4.00)*
+**Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka** `(Aug 2022 - Mar 2023)`
+*Machine Learning & Artificial Intelligence* 
 
-**Brawijaya University** `(2019 - 2024)`
-*Bachelor of Information Technology* *(GPA: 3.70 / 4.00 / 4.00)*
+**Brawijaya University** `(2020 - 2024)`
+*Bachelor of Technology - BTech, Information Technology* *(GPA: 3.70 / 4.00 / 4.00)*
 
 ---
 
@@ -83,48 +81,51 @@
 - 🥇 **DeepLearning.AI TensorFlow Developer** - *DeepLearning.AI*
 - 🥇 **TensorFlow: Data and Deployment** - *Coursera*
 - 🥇 **Laravel Backend Web** - *Sanbercode*
+- 🥇 **Mathematics for Machine Learning** - *Coursera*
 - 🥇 **Advance Python Data Science** - *Sanbercode*
-- 🥇 **Python - Data Science** - *Sanbercode*
-- 🥇 **Winner Hackaton Find IT** - *Universitas Gajah Mada*
-- 🥇 **Winner Paragon Hackathon Competition** - *Paragon Technology*
+- 🥇 **Winner 1 Hackaton “Find IT”** - *Universitas Gajah Mada*
+- 🥇 **TOP 5 Paragon Hackathon Competition** - *Paragon Technology*
 
 ---
 
 <h3 align="left">📚 Research & Publications</h3>
 
-**Facial Emotion Analysis for Evaluating the Suitability of Online Learning Modules: A Case Study on a MERN-Based Platform** `(2024, Proceedings - International Conference on Education and Technology, ICET)`
-> *#software development #online learning #emotion detection #MERN architecture #Agile model #UML*
+**3D Slit Lamp Camera System for Post Trabeculectomy Patients** `(2021, repository.ub.ac.id)`
+> *#trabeculectomy*
+
+**Facial Emotion Analysis for Evaluating the Suitability of Online Learning Modules: A Case Study on a MERN-Based Platform** `(2024, IEEE)`
+> *#AI #Facial Detection #MERN #Mongodb #React.js #Expres.js*
 
 ---
 
 <h3 align="left">🛠 Tech Stack & Tools</h3>
 
-**Fullstack Development**
+**Front End**
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Expres.js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Expres.js" />
-  <img src="https://img.shields.io/badge/Nest.js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/React.js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="React.js" />
   <img src="https://img.shields.io/badge/Vue.js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/laravel-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="laravel" />
-  <img src="https://img.shields.io/badge/Flask-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Django" />
-  <img src="https://img.shields.io/badge/Postgree-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Postgree" />
-  <img src="https://img.shields.io/badge/Mysql-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Mysql" />
-  <img src="https://img.shields.io/badge/Mongodb-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Mongodb" />
+  <img src="https://img.shields.io/badge/Elecktron-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Elecktron" />
 </div>
 <br>
 
-**DataScience And Machine Learning Languange And Tools**
+**Back End**
 <div align="left">
-  <img src="https://img.shields.io/badge/R%20Languange-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="R Languange" />
-  <img src="https://img.shields.io/badge/Numpy-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Matploit-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Matploit" />
-  <img src="https://img.shields.io/badge/Jupiter-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Jupiter" />
-  <img src="https://img.shields.io/badge/Anaconda-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/Python-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Python" />
-  <img src="https://img.shields.io/badge/Tensorflow-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Tensorflow" />
+  <img src="https://img.shields.io/badge/Node%20js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Node js" />
+  <img src="https://img.shields.io/badge/Expres.js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Expres.js" />
+  <img src="https://img.shields.io/badge/Nest.js-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/Laravel-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Django-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Flask" />
+</div>
+<br>
+
+**Database**
+<div align="left">
+  <img src="https://img.shields.io/badge/Mysql-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Mysql" />
+  <img src="https://img.shields.io/badge/Postgresql-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Postgresql" />
+  <img src="https://img.shields.io/badge/Monggodb-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Monggodb" />
+  <img src="https://img.shields.io/badge/Cromadb-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Cromadb" />
 </div>
 <br>
 
@@ -132,6 +133,25 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Kotlin-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Kotlin" />
   <img src="https://img.shields.io/badge/React%20Native-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="React Native" />
+</div>
+<br>
+
+**DataScience And Machine Learning Languange And Tools**
+<div align="left">
+  <img src="https://img.shields.io/badge/R%20Languange-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="R Languange" />
+  <img src="https://img.shields.io/badge/Numpy-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Numpy" />
+  <img src="https://img.shields.io/badge/%20Matploit-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt=" Matploit" />
+  <img src="https://img.shields.io/badge/%20Jupiter-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt=" Jupiter" />
+  <img src="https://img.shields.io/badge/%20Anaconda-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt=" Anaconda" />
+  <img src="https://img.shields.io/badge/%20Tensorflow-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt=" Tensorflow" />
+</div>
+<br>
+
+**CI & CD**
+<div align="left">
+  <img src="https://img.shields.io/badge/Grafana-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometeus-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Prometeus" />
+  <img src="https://img.shields.io/badge/Jenskins-F3F4F6?style=flat&logoColor=black&labelColor=F3F4F6&color=F3F4F6" alt="Jenskins" />
 </div>
 <br>
 
