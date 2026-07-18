@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Completed_Projects-21-success?style=for-the-badge" alt="Completed Projects" />
-  <img src="https://img.shields.io/badge/Ongoing_Projects-2-informational?style=for-the-badge" alt="Ongoing Projects" />
+  <img src="https://img.shields.io/badge/Ongoing_Projects-8-informational?style=for-the-badge" alt="Ongoing Projects" />
   <img src="https://img.shields.io/badge/Certificates-9-warning?style=for-the-badge" alt="Certificates" />
   <img src="https://img.shields.io/badge/Research-2-blueviolet?style=for-the-badge" alt="Research" />
 </p>
@@ -49,19 +49,17 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-**Web development project for Kreasi Media International** | *PT Kreasi Media International* `(SELESAI)`
-> A comprehensive web platform developed for PT Kreasi Media International. This project focused on building an engaging corporate landing page to establish a strong online presence, paired with a custom consultation booking portal designed to simplify the appointment scheduling process for clients.
+**Pinterjualan** | *Personal Project* `(BERJALAN)`
+> Tracking kerja outsource / eksternal.
 
-**Web development project for ETSI Hutama Maritim** | * ETSI Hutama Maritim* `(SELESAI)`
-> A web development project for ETSI Hutama Maritim, focusing on establishing a strong online corporate presence. The project includes a fully functional landing page and a tailored Content Management System (CMS) that allows the client to easily manage, update, and publish website content independently.
-- **Tech Stack:** `Next.js`, `Strapi`
+**Cekat - Villa Dago** | *Personal Project* `(BERJALAN)`
+> Tracking kerja outsource / eksternal.
 
-**Sistem Manajemen Outsourcing Tenaga Kerja** | *SIM Grub* `(BERJALAN)`
-> tets
+**Cekat - Allure** | *Personal Project* `(BERJALAN)`
+> Tracking kerja outsource / eksternal.
 
-**Aplikasi Order Management NEXA** | *Nexa* `(BERJALAN)`
-> -
-- **Tech Stack:** `Nest.js`, `React.js`
+**Cekat - Mitindo** | *Personal Project* `(BERJALAN)`
+> Tracking kerja outsource / eksternal.
 
 ---
 
