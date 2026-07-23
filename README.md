@@ -6,8 +6,8 @@
 ###
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Completed_Projects-22-success?style=for-the-badge" alt="Completed Projects" />
-  <img src="https://img.shields.io/badge/Ongoing_Projects-7-informational?style=for-the-badge" alt="Ongoing Projects" />
+  <img src="https://img.shields.io/badge/Completed_Projects-23-success?style=for-the-badge" alt="Completed Projects" />
+  <img src="https://img.shields.io/badge/Ongoing_Projects-3-informational?style=for-the-badge" alt="Ongoing Projects" />
   <img src="https://img.shields.io/badge/Certificates-9-warning?style=for-the-badge" alt="Certificates" />
   <img src="https://img.shields.io/badge/Research-2-blueviolet?style=for-the-badge" alt="Research" />
 </p>
@@ -56,10 +56,10 @@
 **Pinterjualan** | *Personal Project* `(BERJALAN)`
 > Tracking kerja outsource / eksternal.
 
-**Cekat - Villa Dago** | *Personal Project* `(BERJALAN)`
+**Cekat - Villa Dago** | *Personal Project* `(SELESAI)`
 > Tracking kerja outsource / eksternal.
 
-**Cekat - Allure** | *Personal Project* `(BERJALAN)`
+**Cekat - Allure** | *Personal Project* `(MAINTENANCE)`
 > Tracking kerja outsource / eksternal.
 
 ---
