@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Completed_Projects-21-success?style=for-the-badge" alt="Completed Projects" />
-  <img src="https://img.shields.io/badge/Ongoing_Projects-3-informational?style=for-the-badge" alt="Ongoing Projects" />
+  <img src="https://img.shields.io/badge/Ongoing_Projects-7-informational?style=for-the-badge" alt="Ongoing Projects" />
   <img src="https://img.shields.io/badge/Certificates-9-warning?style=for-the-badge" alt="Certificates" />
   <img src="https://img.shields.io/badge/Research-2-blueviolet?style=for-the-badge" alt="Research" />
 </p>
@@ -49,18 +49,18 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
+**Cekat - Kame** | *Personal Project* `(BERJALAN)`
+> Tracking kerja outsource / eksternal.
+
 **Cekat - CAR Insurance** | *Personal Project* `(BERJALAN)`
 > Tracking kerja outsource / eksternal.
 
-**Cekat - PT Altar Filadelfia (Artotel Wanderlust)** | *Personal Project* `(MAINTENANCE)`
+**Cekat - PT Altar Filadelfia (Artotel Wanderlust)** | *Personal Project* `(BERJALAN)`
 > Tracking kerja outsource / eksternal.
 
-**Integrated Storage & Logistics Management Titipdulu.id** | *Titip Dulu* `(BERJALAN)`
+**Integrated Storage & Logistics Management Titipdulu.id** | *Titip Dulu* `(ONGOING)`
 > Development of an integrated web platform for managing goods storage services (daily & monthly) and room moving services for "Titip Dulu". This system transforms manual WhatsApp & Google Sheets workflows into a centralized platform built on a modern architecture (Next.js & NestJS). Key features include booking automation, local payment gateway integration (DANA/QRIS), rack-number-based warehouse inventory management, automated monthly billing, and a multi-role internal dashboard (CS, Warehouse, Driver, Cashier, and Finance).
 - **Tech Stack:** `Next.js`, `NestJS`, `PostgreSQL`, `Tailwind CSS`, `RESTful API`
-
-**Pinterjualan** | *Personal Project* `(BERJALAN)`
-> Tracking kerja outsource / eksternal.
 
 ---
 
