@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Completed_Projects-21-success?style=for-the-badge" alt="Completed Projects" />
-  <img src="https://img.shields.io/badge/Ongoing_Projects-1-informational?style=for-the-badge" alt="Ongoing Projects" />
+  <img src="https://img.shields.io/badge/Ongoing_Projects-2-informational?style=for-the-badge" alt="Ongoing Projects" />
   <img src="https://img.shields.io/badge/Certificates-9-warning?style=for-the-badge" alt="Certificates" />
   <img src="https://img.shields.io/badge/Research-2-blueviolet?style=for-the-badge" alt="Research" />
 </p>
@@ -49,6 +49,9 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
+**CMblast-Aps** | *Personal Project* `(BERJALAN)`
+> CMblast-Aps
+
 **Integrated Storage & Logistics Management Titipdulu.id** | *Titip Dulu* `(BERJALAN)`
 > Development of an integrated web platform for managing goods storage services (daily & monthly) and room moving services for "Titip Dulu". This system transforms manual WhatsApp & Google Sheets workflows into a centralized platform built on a modern architecture (Next.js & NestJS). Key features include booking automation, local payment gateway integration (DANA/QRIS), rack-number-based warehouse inventory management, automated monthly billing, and a multi-role internal dashboard (CS, Warehouse, Driver, Cashier, and Finance).
 - **Tech Stack:** `Next.js`, `NestJS`, `PostgreSQL`, `Tailwind CSS`, `RESTful API`
@@ -60,10 +63,6 @@
 **Narapati Flora: Plant News & Event Management Platform** | *Narapati* `(SELESAI)`
 > Developed an online portal for Narapati Flora that serves as a central information hub for the botanical community, connecting users through dynamic plant industry news and real-time event schedules.
 - **Tech Stack:** `Next.js`, `Express.js`
-
-**Growroom - Plant Marketplace & E-Commerce Web App** | *Growroom* `(SELESAI)`
-> A dedicated e-commerce platform designed to connect plant enthusiasts with a premium selection of greenery. The system features a responsive layout, a dynamic product catalog, and a streamlined digital checkout pipeline.
-- **Tech Stack:** `Next.js`, `Nest.js`, `PostgreSQL`
 
 ---
 
